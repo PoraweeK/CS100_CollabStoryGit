@@ -1,8 +1,4 @@
 Once upon a time, in a land far, far away...
 There are a baby hippo which name moodeng
 It meet the problem, it wants someone to help.
-<<<<<<< HEAD
-gasd
-=======
-foiajfjafaiofanj
->>>>>>> a5320a7bb07364eea487f6c73d63f72f1c3223d1
+Fortunately, there was a monk passing by.
